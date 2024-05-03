@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: klassic-quote-api
     url: https://klassic-quote-api.mooo.com/v1/random-quote
+  - name: goose-auth-api
+    url: https://goose-auth-api.mooo.com/swagger-ui/index.html
 assignees: # Users to assign downtime issues (optional)
   - GHGHGHKO
 status-website:
