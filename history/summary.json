@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/klassic-quote-api.mooo.com.ico",
     "slug": "klassic-quote-api",
     "status": "up",
-    "uptime": "89.41%",
-    "uptimeDay": "0.00%",
+    "uptime": "89.47%",
+    "uptimeDay": "12.32%",
     "uptimeWeek": "71.43%",
-    "uptimeMonth": "89.41%",
-    "uptimeYear": "89.41%",
+    "uptimeMonth": "89.47%",
+    "uptimeYear": "89.47%",
     "time": 903,
     "timeDay": 4445,
     "timeWeek": 1219,
@@ -22,5 +22,23 @@
       "2024-04-16": 107,
       "2024-04-15": 229
     }
+  },
+  {
+    "name": "goose-auth-api",
+    "url": "https://goose-auth-api.mooo.com/swagger-ui/index.html",
+    "icon": "https://icons.duckduckgo.com/ip3/goose-auth-api.mooo.com.ico",
+    "slug": "goose-auth-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
