@@ -11,15 +11,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 886,
-    "timeDay": 688,
-    "timeWeek": 1714,
-    "timeMonth": 1304,
+    "timeDay": 512,
+    "timeWeek": 1699,
+    "timeMonth": 1303,
     "timeYear": 907,
     "dailyMinutesDown": {
       "2025-11-29": 42,
       "2025-08-18": 20,
-      "2025-04-11": 707,
-      "2025-04-10": 1141
+      "2025-04-11": 707
     }
   },
   {
@@ -28,21 +27,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/goose-auth-api.mooo.com.ico",
     "slug": "goose-auth-api",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 711,
-    "timeDay": 595,
-    "timeWeek": 1092,
+    "timeDay": 499,
+    "timeWeek": 1086,
     "timeMonth": 715,
-    "timeYear": 728,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2025-11-29": 41,
       "2025-08-18": 20,
-      "2025-04-11": 707,
-      "2025-04-10": 1141
+      "2025-04-11": 707
     }
   },
   {
@@ -57,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 805,
-    "timeDay": 674,
-    "timeWeek": 1147,
-    "timeMonth": 888,
+    "timeDay": 641,
+    "timeWeek": 1154,
+    "timeMonth": 892,
     "timeYear": 805,
     "dailyMinutesDown": {
       "2025-11-29": 41
