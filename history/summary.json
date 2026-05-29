@@ -4,20 +4,21 @@
     "url": "https://klassic-quote-api.mooo.com/v1/random-quote",
     "icon": "https://icons.duckduckgo.com/ip3/klassic-quote-api.mooo.com.ico",
     "slug": "klassic-quote-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 906,
-    "timeDay": 474,
-    "timeWeek": 629,
-    "timeMonth": 1216,
+    "timeDay": 541,
+    "timeWeek": 626,
+    "timeMonth": 1196,
     "timeYear": 926,
     "dailyMinutesDown": {
       "2025-08-18": 20,
-      "2025-11-29": 42
+      "2025-11-29": 42,
+      "2026-05-29": 1
     }
   },
   {
@@ -25,20 +26,21 @@
     "url": "https://goose-auth-api.mooo.com/swagger-ui/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/goose-auth-api.mooo.com.ico",
     "slug": "goose-auth-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 710,
-    "timeDay": 498,
-    "timeWeek": 589,
-    "timeMonth": 676,
+    "timeDay": 507,
+    "timeWeek": 580,
+    "timeMonth": 671,
     "timeYear": 722,
     "dailyMinutesDown": {
       "2025-08-18": 20,
-      "2025-11-29": 41
+      "2025-11-29": 41,
+      "2026-05-29": 0
     }
   },
   {
@@ -46,19 +48,20 @@
     "url": "https://roadmap-todo.mooo.com/swagger-ui/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/roadmap-todo.mooo.com.ico",
     "slug": "roadmap-todo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 821,
-    "timeDay": 529,
-    "timeWeek": 787,
-    "timeMonth": 684,
+    "timeDay": 575,
+    "timeWeek": 766,
+    "timeMonth": 682,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2025-11-29": 41
+      "2025-11-29": 41,
+      "2026-05-29": 0
     }
   }
 ]
